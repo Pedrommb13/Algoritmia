@@ -21,19 +21,19 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Linha1.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </Text>
     <Text Include="Linha2.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </Text>
     <Text Include="Linha3.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </Text>
     <Text Include="Linha4.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </Text>
     <Text Include="Linha5.txt">
-      <Filter>Resource Files</Filter>
+      <Filter>Header Files</Filter>
     </Text>
   </ItemGroup>
 </Project>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{49a84274-3e5b-4800-a630-716aae841182}</ProjectGuid>
-    <RootNamespace>algoritmia</RootNamespace>
+    <ProjectGuid>{5d74cb08-0fd2-4dfd-90cc-aaef0b47a611}</ProjectGuid>
+    <RootNamespace>ListasLigadas</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

@@ -1,0 +1,10 @@
+Moderna;14;120;0,27
+Moderna1;14;120;0,27
+Moderna2;14;120;0,27
+Moderna3;14;120;0,27
+Moderna4;14;120;0,27
+Moderna5;14;120;0,27
+Moderna6;14;120;0,27
+Moderna7;14;120;0,27
+Moderna8;14;120;0,27
+Moderna9;14;120;0,27
