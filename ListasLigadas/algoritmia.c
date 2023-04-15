@@ -144,7 +144,6 @@ STATUS readdata(LIST* lista, char* file) {
 				if ((pt = (ESTACAO*)malloc(sizeof(ESTACAO))) != NULL && (insertEndList(lista, pt)) == OK)	
 					fscanf(fp, "%[^;];%f;%d;%d;\n",&(pt->nome),&(pt->custo), &(pt->estado),&(pt->ligacao));
 			}
-			fclose(fp);
 			return OK;
 		}
 		return ERROR;
