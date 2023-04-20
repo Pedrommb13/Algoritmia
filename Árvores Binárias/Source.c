@@ -41,8 +41,8 @@ int main()
 	for (i = 0; i < 30; i++)
 	{
 		pInt = (int*)malloc(sizeof(int));
-		//*pInt = rand()%100;
-		*pInt = i;
+		*pInt = rand()%100;
+		//*pInt = i;
 		insertIntBST(&BT, pInt);
 	}
 	InOrder(BT);
