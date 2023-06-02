@@ -30,6 +30,7 @@ void InOrder(BTREE btree);
 void Ex1(BTREE btree);
 int Ex2(BTREE btree);
 int Ex3(BTREE btree,char* desig);
+//---------------------------------------
 int main() { 
 	BTREE btree = NULL; 
 	DIR* dirs[MAX];
