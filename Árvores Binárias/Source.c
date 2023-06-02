@@ -120,6 +120,7 @@ void InOrder(BTREE BT)
 	InOrder(LEFT(BT));
 	printf("\n%s,%d ", ((PLAYER*)DATA(BT))->name, ((PLAYER*)DATA(BT))->sets);
 	InOrder(RIGHT(BT));
+
 	return;
 }
 
