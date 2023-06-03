@@ -1,0 +1,15 @@
+Joka1;1;0
+Joka2;2;1
+Joka3;3;0
+Joka4;4;1
+Joka5;5;0
+Joka6;6;1
+Joka7;7;0
+Joka8;8;1
+Joka9;9;0
+Joka10;10;1
+Joka11;11;0
+Joka12;12;1
+Joka13;13;0
+Joka14;14;1
+Joka15;15;0
